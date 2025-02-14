@@ -1,0 +1,129 @@
+{
+  "1": {
+    "type": "ru.vse.zoo.impl.inventory.animal.Monkey",
+    "inventory": {
+      "smart": true,
+      "friendly": true,
+      "food": 2,
+      "nickname": "Lena",
+      "number": 1,
+      "surveyDate": "14.02.2025 01:40:13",
+      "healthy": true
+    }
+  },
+  "2": {
+    "type": "ru.vse.zoo.impl.inventory.thing.Computer",
+    "inventory": {
+      "ramMemoryGb": 16,
+      "processor": "Intel i8200",
+      "number": 2,
+      "name": "Notebook Lenovo M16 2025"
+    }
+  },
+  "3": {
+    "type": "ru.vse.zoo.impl.inventory.animal.Monkey",
+    "inventory": {
+      "smart": false,
+      "friendly": false,
+      "food": 3,
+      "nickname": "Dasha",
+      "number": 3,
+      "surveyDate": "14.02.2025 02:25:52",
+      "healthy": true
+    }
+  },
+  "4": {
+    "type": "ru.vse.zoo.impl.inventory.animal.Rabbit",
+    "inventory": {
+      "color": "white",
+      "friendly": true,
+      "food": 1,
+      "nickname": "White",
+      "number": 4,
+      "surveyDate": "14.02.2025 02:26:38",
+      "healthy": true
+    }
+  },
+  "5": {
+    "type": "ru.vse.zoo.impl.inventory.animal.Rabbit",
+    "inventory": {
+      "color": "grey",
+      "friendly": false,
+      "food": 1,
+      "nickname": "Grey",
+      "number": 5,
+      "surveyDate": "14.02.2025 02:27:02",
+      "healthy": true
+    }
+  },
+  "6": {
+    "type": "ru.vse.zoo.impl.inventory.animal.Tiger",
+    "inventory": {
+      "rare": true,
+      "food": 15,
+      "nickname": "Shar Khan",
+      "number": 6,
+      "surveyDate": "14.02.2025 02:27:21",
+      "healthy": true
+    }
+  },
+  "7": {
+    "type": "ru.vse.zoo.impl.inventory.animal.Wolf",
+    "inventory": {
+      "isAlfa": true,
+      "food": 5,
+      "nickname": "North",
+      "number": 7,
+      "surveyDate": "14.02.2025 02:27:37",
+      "healthy": true
+    }
+  },
+  "8": {
+    "type": "ru.vse.zoo.impl.inventory.animal.Wolf",
+    "inventory": {
+      "isAlfa": false,
+      "food": 4,
+      "nickname": "South",
+      "number": 8,
+      "surveyDate": "14.02.2025 02:27:51",
+      "healthy": true
+    }
+  },
+  "9": {
+    "type": "ru.vse.zoo.impl.inventory.thing.Table",
+    "inventory": {
+      "height": 71,
+      "width": 80,
+      "length": 120,
+      "number": 9,
+      "name": "Computers table"
+    }
+  },
+  "10": {
+    "type": "ru.vse.zoo.impl.inventory.person.Employee",
+    "inventory": {
+      "number": 10,
+      "food": 1,
+      "name": "Korshynov Lev Ivanovich",
+      "position": "Director"
+    }
+  },
+  "11": {
+    "type": "ru.vse.zoo.impl.inventory.person.Employee",
+    "inventory": {
+      "number": 11,
+      "food": 1,
+      "name": "Medvedeva Elena Potapovna",
+      "position": "Veterenarian"
+    }
+  },
+  "12": {
+    "type": "ru.vse.zoo.impl.inventory.person.Employee",
+    "inventory": {
+      "number": 12,
+      "food": 1,
+      "name": "Volkov Lev Petrovich",
+      "position": "Security"
+    }
+  }
+}
